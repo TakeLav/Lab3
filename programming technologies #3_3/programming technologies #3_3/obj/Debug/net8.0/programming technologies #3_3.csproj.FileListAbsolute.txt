@@ -1,0 +1,14 @@
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\bin\Debug\net8.0\programming technologies #3_3.exe
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\bin\Debug\net8.0\programming technologies #3_3.deps.json
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\bin\Debug\net8.0\programming technologies #3_3.runtimeconfig.json
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\bin\Debug\net8.0\programming technologies #3_3.dll
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\bin\Debug\net8.0\programming technologies #3_3.pdb
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.dll
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\refint\programming technologies #3_3.dll
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.pdb
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\programming technologies #3_3.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\programming technologies #3_3\programming technologies #3_3\obj\Debug\net8.0\ref\programming technologies #3_3.dll

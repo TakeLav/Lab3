@@ -1,0 +1,14 @@
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\bin\Debug\net8.0\programming technologies #3.exe
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\bin\Debug\net8.0\programming technologies #3.deps.json
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\bin\Debug\net8.0\programming technologies #3.runtimeconfig.json
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\bin\Debug\net8.0\programming technologies #3.dll
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\bin\Debug\net8.0\programming technologies #3.pdb
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.dll
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\refint\programming technologies #3.dll
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.pdb
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\programming technologies #3.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\programming technologies #3\programming technologies #3\obj\Debug\net8.0\ref\programming technologies #3.dll
